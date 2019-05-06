@@ -1,0 +1,26 @@
+{
+  "name": "getstarted-opencv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexMubarakshin/getstarted-opencv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexMubarakshin/getstarted-opencv/issues"
+  },
+  "homepage": "https://github.com/AlexMubarakshin/getstarted-opencv#readme",
+  "dependencies": {
+    "opencv4nodejs": "^4.15.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
