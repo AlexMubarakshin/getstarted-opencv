@@ -7,11 +7,11 @@ These are just my experiments with opencv 😊
 ```bash
 # Install OpenCV
 # For MacOS, for other systems, i don't know 😁
-brew install opencv
+$ brew install opencv
 
 # Install dependencies
-$ npm i
+$ yarn
 
 # Start the program
-$ npm start
+$ yarn start
 ```

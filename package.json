@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/AlexMubarakshin/getstarted-opencv#readme",
   "dependencies": {
-    "opencv4nodejs": "^4.15.0"
+    "opencv4nodejs": "5.2.0"
   },
   "devDependencies": {
-    "eslint": "^5.16.0"
+    "eslint": "6.3.0"
   }
 }
